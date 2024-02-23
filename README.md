@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lucas</h1>
 <h3 align="center">A nonconformist web developer from Romania</h3>
 
-- all of my projects are available at [marishlucas.com](marishlucas.com)
+- all of my projects are available at [marishlucas.com](https://marishlucas.com)
 - i like to build stuff. All sort of stuff.
 
 <h3 align="left">Languages and Tools:</h3>
