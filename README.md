@@ -3,6 +3,6 @@
 
 I like to build stuff. All sort of stuff.
   
-Proficient in web design and development. I turn visions into realities. Exactly how you want them to be.
+Proficient in web design and development. 
   
   [marishlucas.com](https://marishlucas.com)
